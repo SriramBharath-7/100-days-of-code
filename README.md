@@ -42,6 +42,7 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 15  | Modules & importing custom functions                     | 10 |
 | 16  | Worked with JSON files                                   | 10 |
 | 17  | (Add today's learning here)                              | 10 |
+| 18  | Learned about Turtle Graphics                            | 10 |
 
 ---
 
