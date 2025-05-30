@@ -41,9 +41,9 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 14  | Exception handling (try/except)                          | 10 |
 | 15  | Modules & importing custom functions                     | 10 |
 | 16  | Worked with JSON files                                   | 10 |
-| 17  | (Add today's learning here)                              | 10 |
+| 17  | Learnt about OOPS                                        | 10 |
 | 18  | Learned about Turtle Graphics                            | 10 |
-| 19  | Learned about Turtle Graphics                            | 10 |
+| 19  | Learned more about Turtle Graphics                       | 10 |
 | 20  | Learned about Turtle Graphics                            | 10 |
 | 21  | Learned about Turtle Graphics                            | 10 |
 ---
