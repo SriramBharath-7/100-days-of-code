@@ -44,8 +44,8 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 17  | Learnt about OOPS                                        | 10 |
 | 18  | Learned about Turtle Graphics                            | 10 |
 | 19  | Learned more about Turtle Graphics                       | 10 |
-| 20  | Learned about Turtle Graphics                            | 10 |
-| 21  | Learned about Turtle Graphics                            | 10 |
+| 20  | Building the snake game part - 1                         | 10 |
+| 21  |Building the snake game part - 2                          | 10 |
 ---
 
 ## 🧠 Guidelines
