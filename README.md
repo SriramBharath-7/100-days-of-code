@@ -15,8 +15,8 @@ To become a Python pro through focused daily coding, laying the foundation for m
 
 ## 📊 Progress
 
-**Current Day:** 17  
-**XP Earned:** 170 XP  
+**Current Day:** 22  
+**XP Earned:** 220 XP  
 **Status:** 🔥 In Progress
 
 ---
