@@ -43,7 +43,9 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 16  | Worked with JSON files                                   | 10 |
 | 17  | (Add today's learning here)                              | 10 |
 | 18  | Learned about Turtle Graphics                            | 10 |
-
+| 19  | Learned about Turtle Graphics                            | 10 |
+| 20  | Learned about Turtle Graphics                            | 10 |
+| 21  | Learned about Turtle Graphics                            | 10 |
 ---
 
 ## 🧠 Guidelines
