@@ -15,8 +15,8 @@ To become a Python pro through focused daily coding, laying the foundation for m
 
 ## 📊 Progress
 
-**Current Day:** 22  
-**XP Earned:** 220 XP  
+**Current Day:** 23  
+**XP Earned:** 230 XP  
 **Status:** 🔥 In Progress
 
 ---
@@ -46,6 +46,9 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 19  | Learned more about Turtle Graphics                       | 10 |
 | 20  | Building the snake game part - 1                         | 10 |
 | 21  |Building the snake game part - 2                          | 10 |
+| 22  |Building the Ping Pong game part - 1                      | 10 |
+| 23  |Building the Ping Pong game part - 2                      | 10 |
+|-----|----------------------------------------------------------|----|
 ---
 
 ## 🧠 Guidelines
