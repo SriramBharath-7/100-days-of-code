@@ -48,7 +48,7 @@ To become a Python pro through focused daily coding, laying the foundation for m
 | 21  |Building the snake game part - 2                          | 10 |
 | 22  |Building the Ping Pong game part - 1                      | 10 |
 | 23  |Building the Ping Pong game part - 2                      | 10 |
-|-----|----------------------------------------------------------|----|
+
 ---
 
 ## 🧠 Guidelines
