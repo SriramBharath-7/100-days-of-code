@@ -83,5 +83,5 @@ To become a confident developer making over **$100,000/year**, by mastering the 
 
 ---
 
-**Let’s go. 83 more days. No breaks. No mercy. Just code. 🧠🔥**
+**Let’s go. -- more days. No breaks. No mercy. Just code. 🧠🔥**
 
