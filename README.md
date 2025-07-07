@@ -1,7 +1,7 @@
 # 🐍 100 Days of Python
 
 **Welcome to my Python journey!**  
-I'm challenging myself to code for 100 days straight to master Python — from core concepts to real-world applications.
+I'm challenging myself to code for 100 days straight to master Python from core concepts to real-world applications.
 
 > “Consistency > Perfection. Just show up. You'll be unstoppable.”
 
